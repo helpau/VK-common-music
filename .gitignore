@@ -17,6 +17,7 @@
 mono_crash.*
 
 # Build results
+vk_config.v2.json
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
